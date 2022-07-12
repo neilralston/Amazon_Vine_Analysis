@@ -1,10 +1,10 @@
-# Big Data Amazon Review Analysis (Module Challenge 16)
+# Amazon Vine Analysis (Module Challenge 16)
 
 [Link to Deliverable 1 Colab code](Amazon_Reviews_ETL.ipynb)
 
 [Link to Deliverable 2 Colab code](Vine_Review_Analysis.ipynb)
 
-## Amazon Review Analysis
+## Amazon Vine Analysis
 
 ### Overview
 The purpose of this project is to analyze Amazon reviews written by members of the paid Amazon Vine program.
