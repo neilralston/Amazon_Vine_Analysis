@@ -41,6 +41,7 @@ The analysis returned the following results:
 
   ![Nonvine_Reviews_Fivestar_Percent](nonvine_percent.PNG)
 
+
 ## Summary
 
 This analysis suggests that there is no substantive positivity bias for reviews of musical instruments in the Vine program.
